@@ -15,6 +15,14 @@ The panel should be populated similar to the following:
 
 ![Network Panel](images/networkPanel.png)
 
+## Envs
+Testnet
+  url: https://testnet.hashio.io/api, chainId: 296
+Previewnet
+  url: https://testnet.hashio.io/api, chainId: 297
+Mainnet
+  url: https://mainnet.hashio.io/api, chainId: 295
+
 ## Create Necessary Accounts
 
 ### Fund Creation Account
